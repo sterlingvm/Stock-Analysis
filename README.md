@@ -22,11 +22,11 @@ The VBA code macro for the data analysis includes:
 What we learned is that 2017's stock performance for the 12 green-stocks provided in the data was generally better than 2018's stock performance. Daily Trade Volume for green-stocks during 2017 was also considerably higher than the Daily Trade Volume of green-stocks during 2018
 -11 out of 12 stocks had positive annual returns during 2017 
 
-!image issue insert
+<img width="294" alt="Stock 2017" src="https://user-images.githubusercontent.com/87245870/147313424-a0f1eb68-c44f-4c1e-99b0-33074e061029.png">
 
 -2 out of 12 stocks had positive annual returns during 2018.
 
-!image issue insert
+<img width="294" alt="Stock 2018" src="https://user-images.githubusercontent.com/87245870/147313434-514998ec-4da2-4937-8d96-48c173e35c0d.png">
 
 From this we can assume that green-stocks had a considerable dip or decline in growth & volume after 2017.
 
@@ -38,11 +38,11 @@ The 2 stocks that remained positive in their returns in the 2018 data were "ENPH
 In reference to our code and our refactoring: 
 - we've improved the analytics code's run performance from 0.5703 seconds for 2018's data to 0.125 seconds
 
-!image issue insert
+<img width="259" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/87245870/147313367-80a96b2d-698a-444e-8dcc-55cce8dc1db7.png">
 
 - we've improved the analytics code's run performance from 0.5703 seconds for 2017's data to 0.1328 seconds
 
-!image issue insert
+<img width="258" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/87245870/147313361-5f90ceb7-a530-49dd-83c2-447284ba676a.png">
 
 
 
