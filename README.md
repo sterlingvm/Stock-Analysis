@@ -1,4 +1,5 @@
 -- VBA Stock-Analysis Data Analysis Written Report --
+Written by: Sterling Miller
 
 
 
