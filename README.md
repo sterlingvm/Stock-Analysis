@@ -36,7 +36,7 @@ The 2 stocks that remained positive in their returns in the 2018 data were "ENPH
 
 
 In reference to our code and our refactoring: 
-- we've improved the analytics code's run performance from 0.5703 seconds for 2018's data to 0.125 seconds
+- we've improved the analytics code's run performance from 0.5703 seconds for 2018's data to 0.1328 seconds
 
 <img width="259" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/87245870/147313367-80a96b2d-698a-444e-8dcc-55cce8dc1db7.png">
 
