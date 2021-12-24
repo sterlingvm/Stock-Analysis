@@ -40,7 +40,7 @@ In reference to our code and our refactoring:
 
 <img width="259" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/87245870/147313367-80a96b2d-698a-444e-8dcc-55cce8dc1db7.png">
 
-- we've improved the analytics code's run performance from 0.5703 seconds for 2017's data to 0.1328 seconds
+- we've improved the analytics code's run performance from 0.5703 seconds for 2017's data to 0.1406 seconds
 
 <img width="258" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/87245870/147313361-5f90ceb7-a530-49dd-83c2-447284ba676a.png">
 
